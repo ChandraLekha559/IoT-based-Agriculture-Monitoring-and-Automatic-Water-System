@@ -23,6 +23,8 @@ DHT11 SENSOR
 GSM MODULE SIM 900A
 SOIL MOISTURE SENSOR
 HC-05 Bluetooth Module 
+ARDUINO UNO
+
 
 Thingspeak Server : 
 Thingspeak is an open source IOT application to store and retrieve data from things. It displays the data from the things (here sensors) in a graphical way.
@@ -32,3 +34,9 @@ Working:
 With the complete hardware setup as in the circuit and software programming for the Arduino , all the sensors data gets displayed in the LCD display.
 As the project gets connected to internet , the data is sent to the Thingspeak server and by opening the Thingspeak account one can check the collected data in a graphical way  with respect to the time.
 One can easily analyze the data to make sensible changes in the supplied resources to obtain high yield.
+
+Results :
+![image](https://github.com/ChandraLekha559/IoT-based-Agriculture-Monitoring-and-Automatic-Water-System/assets/140607268/711c5054-165c-4328-a4fa-f87b06d1b38a)
+
+![image](https://github.com/ChandraLekha559/IoT-based-Agriculture-Monitoring-and-Automatic-Water-System/assets/140607268/8ef7a5b3-dd62-4ee9-98ca-a50f1e01ab17)
+
